@@ -2,7 +2,7 @@ let modInfo = {
 	name: "The Unfinishable Tree",
 	id: "idkwhatisthis",
 	author: "¨Poulayeggs",
-	pointsName: "points",
+	pointsName: "rocks",
 	modFiles: ["layers.js", "tree.js"],
 
 	discordName: "",
